@@ -1,1 +1,19 @@
-theme: jekyll-theme-minimal
+title: Clockwrk Design
+tagline: Data Management · Web Design · App Development
+description: Precision-crafted digital solutions. Data management, web design, and app development built to move your business forward.
+url: "https://clockwrk.com"
+baseurl: ""
+
+author:
+  name: Doug Webster
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - .git
